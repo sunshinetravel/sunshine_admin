@@ -2,8 +2,7 @@
 	controllerName="com.sunshine.controller.App"
 	xmlns:mvc="sap.ui.core.mvc"
 	xmlns="sap.m"
-	xmlns:tnt="sap.tnt">
-
+	xmlns:tnt="sap.tnt"> 
 	<tnt:ToolPage
 		id="app"
 		class="sapUiDemoToolPage">
